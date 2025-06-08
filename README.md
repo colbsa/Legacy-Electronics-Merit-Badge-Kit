@@ -1,5 +1,4 @@
 # Electronics Merit Badge Kit (Legacy Version)
-==================================
 
 > ⚠️ **WARNING:** This version of the Resica Falls Scout Reservation Electronics Merit Badge Kit has **not been produced in several years**.  
 > All information in this repository should be considered **deprecated**.  
